@@ -1,0 +1,1 @@
+print ("vikas , shikha , anika , shriya")
